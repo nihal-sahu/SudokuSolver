@@ -1,5 +1,3 @@
-//THIS PROGRAM WAS MADE BY REFERENCING THE TUTORIAL FOUND ON https://www.geeksforgeeks.org/sudoku-backtracking-7/
-
 #include <iostream>
 #include <cstdlib>
 using namespace std;
